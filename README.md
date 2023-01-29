@@ -400,32 +400,32 @@ people.html
     </head>
     <body>
         <div class="home">
-            <div class="header">
-                <header>
-                    <div class=logo></div>
-                    <div class=h>
-                    <a href="home.html" title="Home" style="color: rgb(46, 70, 173); text-decoration: none;"><b>HOME</b></a></div>
-                    <div class="prod">
-                        <a href="products.html" title="Products" style="color: rgb(2, 0, 139); text-decoration: none;"><b>PRODUCTS</b></a>
-                    </div>
-                    <div class="people">
-                        <a href="people.html" title="People" style="color:rgb(0, 2, 139); text-decoration: none;"><b>PEOPLE</b></a>
-                    </div>
-                    <div class="contact">
-                        <a href="contact.html" title="Contact Us" style="color:rgb(2, 0, 139); text-decoration: none;"><b>CONTACT US</b></a>
-                    </div>
-                </header>
-                <div class="title">
-                    <h1>PEOPLE</h1>
+          <div class="header">
+          <header>
+           <div class=logo></div>
+           <div class=h>
+           <a href="home.html" title="Home" style="color: rgb(46, 70, 173); text-decoration: none;"><b>HOME</b></a></div>
+           <div class="prod">
+           <a href="products.html" title="Products" style="color: rgb(2, 0, 139); text-decoration: none;"><b>PRODUCTS</b></a>
+           </div>
+           <div class="people">
+           <a href="people.html" title="People" style="color:rgb(0, 2, 139); text-decoration: none;"><b>PEOPLE</b></a>
+           </div>
+           <div class="contact">
+           <a href="contact.html" title="Contact Us" style="color:rgb(2, 0, 139); text-decoration: none;"><b>CONTACT US</b></a>
+           </div>
+             </header>
+            <div class="title">
+                 <h1>PEOPLE</h1>
                 </div><br>
                 <div class="content">
-                    <div class="text">
-                    <p>Board Members</p>
-                    <h4><u>CHAIRMAN</u></h4>
-                    </div>
-                    <div class="ceoph"></div>
-                    <div class="ceo"><p align="center"><b><h2>Mr. Udaya</h2></b></div>
-                    <br>
+                 <div class="text">
+                  <p>Board Members</p>
+                 <h4><u>CHAIRMAN</u></h4>
+                 </div>
+                 <div class="ceoph"></div>
+                 <div class="ceo"><p align="center"><b><h2>Mr. Udaya</h2></b></div>
+                  <br>
                     <div class="text">
                         <p><b><u>HEAD EXECUTIVES</u></b></p><br>
                     </div>
