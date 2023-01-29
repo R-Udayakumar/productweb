@@ -236,45 +236,45 @@ products.html
         }
         </style>
     </head>
-    <body>
-        <div class="home">
-            <div class="header">
-                <header>
-                    <div class=logo></div>
-                    <div class=h>
-                    <a href="home.html" title="Home" style="color: darkred; text-decoration: none;"><b>Home</a></div>
-                    <div class="prod">
-                        <a href="products.html" title="Products" style="color: darkred; text-decoration: none;"><b>Products</b></a>
-                    </div>
-                    <div class="people">
-                        <a href="people.html" title="People" style="color:darkred; text-decoration: none;"><b>People</b></a>
-                    </div>
-                    <div class="contact">
-                        <a href="contact.html" title="Contact Us" style="color:darkred; text-decoration: none;"><b>Contact Us</b></a>
-                    </div>
-                </header>
-                <div class="title">
-                    <h1>PRODUCTS</h1>
-                </div><br>
-                <div class="content">
-                    <div class="text">
-                    <p>These are the products that are available now</p>
-                    </div>
-                    <div class="ph1"></div>
-                    <div class="l1"><p align="center"><b>1980's Model Vintage version <br> Price: 6999.00</b><br><br><br><br></p></div>
-                    <div class="ph2"></div>
-                    <div class="l2"><p align="center"><b>Black Berry<br> Price: 9999.00</b><br><br><br><br></p></div>
-                    <div class="ph3"></div>
-                    <div class="l3"><p align="center"><b>Landline Model<br> Price: 1999.00</b><br<br><br><br></p></div>
-                    <div class="ph4"></div>
-                    <div class="l4"><p align="center"><b>Wooden Booth Modl<br> Price: 6999.00</b><br><br><br><br></p></div>
-                    <div class="ph5"></div>
-                    <div class="l5"><p align="center"><b>Classic Model<br> Price: 3999.00</b><br><br><br><br></p></div>
-                </div>
-                <div class="bot"><p>To Order Online: Call 90 80 70 2009</p></div>
+  <body>
+   <div class="home">
+      <div class="header">
+      <header>
+       <div class=logo></div>
+       <div class=h>
+        <a href="home.html" title="Home" style="color: darkred; text-decoration: none;"><b>Home</a></div>
+       <div class="prod">
+        <a href="products.html" title="Products" style="color: darkred; text-decoration: none;"><b>Products</b></a>
+       </div>
+       <div class="people">
+        <a href="people.html" title="People" style="color:darkred; text-decoration: none;"><b>People</b></a>
+       </div>
+       <div class="contact">
+       <a href="contact.html" title="Contact Us" style="color:darkred; text-decoration: none;"><b>Contact Us</b></a>
+        </div>
+      </header>
+       <div class="title">
+         <h1>PRODUCTS</h1>
+           </div><br>
+           <div class="content">
+           <div class="text">
+            <p>These are the products that are available now</p>
+           </div>
+           <div class="ph1"></div>
+           <div class="l1"><p align="center"><b>1980's Model Vintage version <br> Price: 6999.00</b><br><br><br><br></p></div>
+           <div class="ph2"></div>
+           <div class="l2"><p align="center"><b>Black Berry<br> Price: 9999.00</b><br><br><br><br></p></div>
+           <div class="ph3"></div>
+           <div class="l3"><p align="center"><b>Landline Model<br> Price: 1999.00</b><br<br><br><br></p></div>
+           <div class="ph4"></div>
+           <div class="l4"><p align="center"><b>Wooden Booth Modl<br> Price: 6999.00</b><br><br><br><br></p></div>
+           <div class="ph5"></div>
+           <div class="l5"><p align="center"><b>Classic Model<br> Price: 3999.00</b><br><br><br><br></p></div>
+           </div>
+           <div class="bot"><p>To Order Online: Call 90 80 70 2009</p></div>
 
-                <div class="footer">
-                <footer style="color:white">
+            <div class="footer">
+             <footer style="color:white">
                 Copyright &copy;2023 Developed by UDAYAKUMAR</footer></div>
             </div>
         </div>
